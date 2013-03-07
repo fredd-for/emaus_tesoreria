@@ -27,7 +27,6 @@ $cierre_gestion_list->Page_Init();
 // Page main processing
 $cierre_gestion_list->Page_Main();
 ?>
-
 <?php 
 if($_POST['guardar']){
 

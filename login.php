@@ -69,7 +69,6 @@ login.ValidateRequired = true;
 <?php } else { ?>
 login.ValidateRequired = false;
 <?php } ?>
-
 //-->
 </script>
 <p><span class="phpmaker">Pagina de ingreso</span></p>
